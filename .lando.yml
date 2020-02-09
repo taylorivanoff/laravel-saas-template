@@ -1,4 +1,4 @@
-name: schedulr
+name: stepmate
 recipe: laravel
 config:
   webroot: public
@@ -9,5 +9,5 @@ services:
       - database
 proxy:
   pma:
-    - pma.schedulr.lndo.site
+    - pma.stepmate.lndo.site
 

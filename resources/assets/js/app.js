@@ -76,3 +76,22 @@ Vue.component(
 const app = new Vue({
     el: '#app'
 });
+
+var distance = $('.navbar').height() / 2;
+
+$(window).scroll(function() {
+    if ($(this).scrollTop() >= distance) {
+        $('.navbar').addClass('shadow-sm');
+    } else {
+        $('.navbar').removeClass('shadow-sm');
+    }
+});
+
+
+
+
+
+
+
+
+

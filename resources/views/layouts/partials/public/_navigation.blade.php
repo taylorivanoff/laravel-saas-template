@@ -1,8 +1,9 @@
-<nav class="navbar navbar-expand-md navbar-light navbar-laravel fixed-top py-3">
+<nav class="navbar navbar-expand-md navbar-light bg-white fixed-top py-3">
     <div class="container">
-        <a class="navbar-brand" href="{{ url('/') }}">
-            {{ config('app.name') }}
+        <a class="navbar-brand ml-2" href="{{ url('/') }}">
+            <img src="{{ asset('/img/app-logo.png') }}" alt="{{ config('app.name') }}" width="128">
         </a>
+
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
                 aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>

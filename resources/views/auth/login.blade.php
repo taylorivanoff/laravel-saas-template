@@ -6,11 +6,11 @@
             <div class="col-md-6 mx-auto">
                 <div class="text-center mb-4">
                     <a href="{{ route('home') }}">
-                        <img src="https://source.unsplash.com/random/500x500" alt="" width="50"> 
+                        <img src="/favicon.png" alt="" width="46"> 
                     </a>
                 </div>
 
-                <p class="text-center">Log into your {{ config('app.name') }} account.</p>
+                <p class="text-center my-4 pt-3 pb-1">Log into your {{ config('app.name') }} account.</p>
 
                 <div class="card">
                     <div class="card-body">
@@ -57,7 +57,7 @@
                         <div class="form-group">
                             <div>
                                 
-                            <a class="text-primary" href="{{ route('password.request') }}">
+                            <a class="text-primary mb-2" href="{{ route('password.request') }}">
                                 <small>Forgot Your Password?</small>
                             </a>
                             <small>or</small> 

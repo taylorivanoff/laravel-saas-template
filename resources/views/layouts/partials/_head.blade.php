@@ -5,9 +5,9 @@
 <!-- CSRF Token -->
 <meta name="csrf-token" content="{{ csrf_token() }}">
 
-<title>{{ config('app.name') }}</title>
+<title>Free Business Process Documentation Software - {{ config('app.name') }}</title>
 
 <!-- Styles -->
-<link href="{{ asset('css/app.css') }}" rel="stylesheet">
-
+<link rel="stylesheet" href="{{ mix('css/app.css') }}" >
+<link rel="icon" type="image/png" href="/favicon.png">
 @yield('styles')
