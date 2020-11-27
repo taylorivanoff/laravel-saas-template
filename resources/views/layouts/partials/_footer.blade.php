@@ -2,7 +2,7 @@
     <div class="container py-2 px-4 my-md-5 my-3">
         <div class="row">
             <div class="col-12 col-md">
-                <img class="mb-2" src="https://source.unsplash.com/random" alt="" width="24" height="24">
+                <img class="mb-2" src="/favicon.png" alt="" width="24" height="24">
                 <small class="d-block mb-3 text-muted"></small>
             </div>
             <div class="col-6 col-md">

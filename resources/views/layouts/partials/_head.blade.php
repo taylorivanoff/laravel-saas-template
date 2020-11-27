@@ -5,7 +5,7 @@
 <!-- CSRF Token -->
 <meta name="csrf-token" content="{{ csrf_token() }}">
 
-<title>Free Business Process Documentation Software - {{ config('app.name') }}</title>
+<title>{{ config('app.name') }} - Business Process Documentation Software</title>
 
 <!-- Styles -->
 <link rel="stylesheet" href="{{ mix('css/app.css') }}" >

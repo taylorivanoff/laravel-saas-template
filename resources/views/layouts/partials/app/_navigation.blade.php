@@ -13,7 +13,7 @@
             <ul class="navbar-nav mr-auto">
 
                 @subscribed
-                <li class="nav-item dropdown">
+                {{-- <li class="nav-item dropdown">
                     <a id="navbarDropdown" class="nav-link dropdown-toggle" href="#" role="button"
                        data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         My Companies <span class="caret"></span>
@@ -47,7 +47,7 @@
                        href="{{ route('tenant.projects.index') }}">
                         Projects
                     </a>
-                </li>
+                </li> --}}
                 @endsubscribed
             </ul>
 

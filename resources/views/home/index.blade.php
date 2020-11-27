@@ -8,7 +8,7 @@
                 <p class="h4 my-2">Stepmate brings teams and processes together, helping everyone get more work done.</p>
             </div>
             <div class="row">
-                <a href="{{ route('home.signup') }}" class="btn btn-primary py-3 px-5 mb-4">Get Started</a>
+                <a href="{{ route('account.index') }}" class="btn btn-primary py-3 px-5 mb-4">Get Started</a>
                 
             </div>
             <div class="row">
@@ -87,22 +87,22 @@
         </div>
 
         <div class="row my-3">
-            <div class="col-md-4 p-4"><strong>Create rules</strong>
+            <div class="col-md-4 p-4"><strong>Features</strong>
                 <p>Setup is easy. Let Calendly know your availability preferences and it’ll do the work for you.</p>
             </div>
-            <div class="col-md-4 p-4"><strong>Create rules</strong>
+            <div class="col-md-4 p-4"><strong>Features</strong>
                 <p>Setup is easy. Let Calendly know your availability preferences and it’ll do the work for you.</p>
             </div>
-            <div class="col-md-4 p-4"><strong>Create rules</strong>
+            <div class="col-md-4 p-4"><strong>Features</strong>
                 <p>Setup is easy. Let Calendly know your availability preferences and it’ll do the work for you.</p>
             </div>
-            <div class="col-md-4 p-4"><strong>Create rules</strong>
+            <div class="col-md-4 p-4"><strong>Features</strong>
                 <p>Setup is easy. Let Calendly know your availability preferences and it’ll do the work for you.</p>
             </div>
-            <div class="col-md-4 p-4"><strong>Create rules</strong>
+            <div class="col-md-4 p-4"><strong>Features</strong>
                 <p>Setup is easy. Let Calendly know your availability preferences and it’ll do the work for you.</p>
             </div>
-            <div class="col-md-4 p-4"><strong>Create rules</strong>
+            <div class="col-md-4 p-4"><strong>Features</strong>
                 <p>Setup is easy. Let Calendly know your availability preferences and it’ll do the work for you.</p>
             </div>
             <div class="col-md-12 my-3 text-center">
