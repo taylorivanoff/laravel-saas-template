@@ -1,5 +1,4 @@
-# SaaS Template
-This is a SaaS boilerplate built with Laravel.
+# Laravel SaaS Template
 
 ## Development
 Requires [Lando](http://docs.devwithlando.io)
